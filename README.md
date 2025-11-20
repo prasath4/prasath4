@@ -25,7 +25,7 @@ I'm a passionate and results-driven developer focused on building scalable, effi
 
 ## 🛠️ Tech Stack & Tools
 
-This section uses [Shields.io](https://shields.io/) to give a professional, visual overview of your skills.
+<!--This section uses [Shields.io](https://shields.io/) to give a professional, visual overview of your skills.-->
 
 | Category | Technologies |
 | :--- | :--- |
@@ -38,7 +38,7 @@ This section uses [Shields.io](https://shields.io/) to give a professional, visu
 | **AI/Tools** | ![AI Tools](https://img.shields.io/badge/AI_Tools-FF69B4?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA1MTIgNTEyIj48cGF0aCBmaWxsPSJ3aGl0ZSIgZD0iTTI1NiA1MTJBMjU2IDI1NiAwIDEgMCAyNTYgMGEyNTYgMjU2IDAgMSAwIDAgNTEyek0xNDkgMTczLjVjLTE2LjcgMC0zMC4yIDEzLjUtMzAuMiAzMC4yIDAgMTYuNyAxMy41IDMwLjIgMzAuMiAzMC4yIDE2LjcgMCAzMC4yLTEzLjUgMzAuMi0zMC4yIDAtMTYuNy0xMy41LTMwLjItMzAuMi0zMC4yem03NS41IDE2Ny45YzAtMjEuOSAyMS41LTM5LjggNDcuOS0zOS44IDI2LjQgMCA0Ny45IDE3LjkgNDcuOSA0MC41IDAgMjEuOS0yMS41IDM5LjgtNDcuOSAzOS44LTI2LjQgMC00Ny45LTE3LjktNDcuOS00MC41em0xNjkuOC0xNjcuOWMtMTYuNyAwLTMwLjIgMTMuNS0zMC4yIDMwLjIgMCAxNi43IDEzLjUgMzAuMiAzMC4yIDMwLjIgMTYuNyAwIDMwLjItMTMuNSAzMC4yLTMwLjIgMC0xNi43LTEzLjUtMzAuMi0zMC4yLTMwLjJ6Ii8+PC9zdmc+) ![Google Antigravity](https://img.shields.io/badge/Google_Antigravity-4285F4?style=for-the-badge&logo=google&logoColor=white) |
 <br>
 
-## 📈 GitHub Stats
+<!-- ## 📈 GitHub Stats
 
 Displaying your activity proves consistency and expertise. These dynamically update whenever your profile is viewed. **Replace `[Your-GitHub-Username]` with your actual username.**
 
@@ -52,20 +52,20 @@ Displaying your activity proves consistency and expertise. These dynamically upd
   </a>
 </div>
 
-<br>
+<br> -->
 
 ## 🤝 Connect with Me
 
 <div align="center">
-  <a href="mailto:[Your-Professional-Email]@example.com" target="_blank">
+  <a href="mailto:prasath3428@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="[Your-LinkedIn-URL]" target="_blank">
+  <a href="www.linkedin.com/in/im-prasath-b-2oo2" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="[Your-Portfolio-URL]" target="_blank">
+  <!-- <a href="[Your-Portfolio-URL]" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-100000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
-  </a>
+  </a> -->
 </div>
 
 ---
