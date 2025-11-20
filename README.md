@@ -6,7 +6,7 @@
 
 <div align="center">
   <h1>Hi there! I'm Prasath B 👋</h1>
-  <p>Full-Stack Trainer & Developer| AI/ML Enthusiast</p>
+  <p>Full-Stack Trainer & Developer  |  AI/ML Enthusiast</p>
 </div>
 
 ---
@@ -52,7 +52,7 @@ Displaying your activity proves consistency and expertise. These dynamically upd
   </a>
 </div>
 
-<br> -->
+<br> 
 
 ## 🤝 Connect with Me
 
@@ -65,7 +65,7 @@ Displaying your activity proves consistency and expertise. These dynamically upd
   </a>
   <!-- <a href="[Your-Portfolio-URL]" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-100000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
-  </a> -->
-</div>
+  </a>
+</div> -->
 
 ---
