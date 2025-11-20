@@ -5,8 +5,8 @@
 <br>
 
 <div align="center">
-  <h1>Hi there! I'm [Your Full Name] 👋</h1>
-  <p>Software Developer | AI/ML Engineer | Full-Stack Enthusiast</p>
+  <h1>Hi there! I'm Prasath B 👋</h1>
+  <p>Full-Stack Trainer & Developer| AI/ML Enthusiast</p>
 </div>
 
 ---
@@ -15,26 +15,27 @@
 
 I'm a passionate and results-driven developer focused on building scalable, efficient, and user-friendly applications. I thrive on solving complex problems and constantly exploring emerging technologies.
 
-- 🔭 I’m currently working on: **[Your Main Project Name/Area]** (e.g., a serverless microservice architecture).
-- 🌱 I’m currently learning: **[Specific Technology or Skill]** (e.g., Kubernetes and GoLang).
-- 👯 I’m looking to collaborate on: Open-source projects related to **[Your Field, e.g., Data Visualization or Backend Optimization]**.
-- 💬 Ask me about: **[Your strongest skill, e.g., React hooks, Python performance, or cloud deployment.]**
-- ⚡ Fun fact: I enjoy [Your Hobby, e.g., competitive programming / hiking on weekends].
+- 🔭 I’m currently working on: **Building An AI Agent** (e.g., a serverless microservice architecture).
+- 🌱 I’m currently learning: **AI Agent's** (e.g., Kubernetes and GoLang).
+- 👯 I’m looking to collaborate on: Open-source projects related to **AI Agent Projects and Creating Automation's**.
+- 💬 Ask me about: **Python, Java, JS, etc..**
+- ⚡ Fun fact: I enjoy Problem Solving.
 
 <br>
 
 ## 🛠️ Tech Stack & Tools
 
-This section uses [Shields.io](https://shields.io/) to give a professional, visual overview of your skills. **Replace the suggested technologies with your actual skills.**
+This section uses [Shields.io](https://shields.io/) to give a professional, visual overview of your skills.
 
 | Category | Technologies |
 | :--- | :--- |
-| **Frontend** | ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) |
-| **Backend** | ![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white) |
-| **Database** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) |
-| **Cloud/DevOps** | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) |
-| **Tools** | ![VSCode](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) |
-
+| **Frontend** | ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) |
+| **Backend** | ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white) |
+| **Programming** | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) |
+| **Database** | ![SQL](https://img.shields.io/badge/SQL-4479A5?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-for-the-badge&logo=mongodb&logoColor=white) |
+| **DevOps** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) |
+| **Project Mgmt**| ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white) |
+| **AI/Tools** | ![AI Tools](https://img.shields.io/badge/AI_Tools-FF69B4?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA1MTIgNTEyIj48cGF0aCBmaWxsPSJ3aGl0ZSIgZD0iTTI1NiA1MTJBMjU2IDI1NiAwIDEgMCAyNTYgMGEyNTYgMjU2IDAgMSAwIDAgNTEyek0xNDkgMTczLjVjLTE2LjcgMC0zMC4yIDEzLjUtMzAuMiAzMC4yIDAgMTYuNyAxMy41IDMwLjIgMzAuMiAzMC4yIDE2LjcgMCAzMC4yLTEzLjUgMzAuMi0zMC4yIDAtMTYuNy0xMy41LTMwLjItMzAuMi0zMC4yem03NS41IDE2Ny45YzAtMjEuOSAyMS41LTM5LjggNDcuOS0zOS44IDI2LjQgMCA0Ny45IDE3LjkgNDcuOSA0MC41IDAgMjEuOS0yMS41IDM5LjgtNDcuOSAzOS44LTI2LjQgMC00Ny45LTE3LjktNDcuOS00MC41em0xNjkuOC0xNjcuOWMtMTYuNyAwLTMwLjIgMTMuNS0zMC4yIDMwLjIgMCAxNi43IDEzLjUgMzAuMiAzMC4yIDMwLjIgMTYuNyAwIDMwLjItMTMuNSAzMC4yLTMwLjIgMC0xNi43LTEzLjUtMzAuMi0zMC4yLTMwLjJ6Ii8+PC9zdmc+) ![Google Antigravity](https://img.shields.io/badge/Google_Antigravity-4285F4?style=for-the-badge&logo=google&logoColor=white) |
 <br>
 
 ## 📈 GitHub Stats
